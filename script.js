@@ -244,5 +244,11 @@ function display() {
 }
 
 function finalize() {
-  document.getElementById("body").style.display = "none";
+  document.getElementById("pictures").style.display = "none";
+  document.getElementById("power1").style.display = "none";
+  document.getElementById("speed1").style.display = "none";
+  document.getElementById("sin1").style.display = "none";
+  document.getElementById("scanner1").style.display = "none";
+  document.getElementById("defense1").style.display = "none";
+  document.getElementById("type1").style.display = "none";
 }

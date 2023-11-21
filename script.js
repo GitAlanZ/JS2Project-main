@@ -247,8 +247,8 @@ function finalize() {
   document.getElementById("pictures").style.display = "none";
   document.getElementById("power1").style.display = "none";
   document.getElementById("speed1").style.display = "none";
-  document.getElementById("sin1").style.display = "none";
-  document.getElementById("scanner1").style.display = "none";
-  document.getElementById("defense1").style.display = "none";
-  document.getElementById("type1").style.display = "none";
+  document.getElementById("si1").style.display = "none";
+  document.getElementById("scan1").style.display = "none";
+  document.getElementById("def1").style.display = "none";
+  document.getElementById("pt1").style.display = "none";
 }

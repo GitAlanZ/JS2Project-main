@@ -135,9 +135,6 @@ button{
 }
 
 @media (min-width: 601px) and (max-width: 1024px) {
-  button{
-  width: 5px
-  }
   h1 {
     font-size: 32px;
   }

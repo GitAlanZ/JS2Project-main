@@ -124,9 +124,6 @@ button{
   h1 {
     font-size: 24px;
   }
-  h3 {
-    font-size: 12px;
-  }
   p {
     font-size: 12px;
   }
@@ -140,9 +137,6 @@ button{
 @media (min-width: 601px) and (max-width: 1024px) {
   h1 {
     font-size: 32px;
-  }
-  h3 {
-    font-size: 15px;
   }
   p {
     font-size: 18px;
@@ -162,9 +156,6 @@ button{
 
   h1 {
     font-size: 48px;
-  }
-  h3 {
-    font-size: 20px;
   }
   p {
     font-size: 20px;

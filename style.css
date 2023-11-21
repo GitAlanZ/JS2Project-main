@@ -124,8 +124,9 @@ button{
   h1 {
     font-size: 24px;
   }
+
   p {
-    font-size: 12px;
+    font-size: 16px;
   }
 
   img {
@@ -138,6 +139,7 @@ button{
   h1 {
     font-size: 32px;
   }
+
   p {
     font-size: 18px;
   }
@@ -157,6 +159,7 @@ button{
   h1 {
     font-size: 48px;
   }
+
   p {
     font-size: 20px;
   }
